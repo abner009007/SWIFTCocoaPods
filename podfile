@@ -1,0 +1,11 @@
+platform :ios, ‘9.0’
+inhibit_all_warnings!
+
+# 项目中的target各自的设置
+target 'SWIFTCocoaPods' do
+
+
+pod 'MBProgressHUD', '~> 0.9.2'
+
+    
+end
